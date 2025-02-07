@@ -1,0 +1,29 @@
+Documentação "Prejeto RPG Console"
+
+Integrantes do Grupo:
+Fernanda  RA: 318228
+João Pedro A. RA: 317950
+Jõao Pedro B.  RA: 318246
+Matheus RA: 318001
+
+Introdução ao tema:
+Na idade média, havia um aventureiro onde ele tinha como sua principal meta "Derrotar o Monstro do Tesouro de Ouro", já que lendas de sua vila o pertubavam e o intigava cada vez mais a ir atrás do mesmo.
+Certo dia, curioso e empolgado, o aventureiro embarca nessa jornada com diversas oportunidades no caminho desde baús raros á mercadores que vendiam os itens ideais para que ele vencesse a batalha.
+
+Linguagens Utilizadas:
+-Phyton:
+Python é uma linguagem de programação de alto nível, interpretada e versátil. Foi criada por Guido van Rossum e lançada pela primeira vez em 1991. Python é conhecida por sua sintaxe limpa e legível, 
+o que a torna uma escolha popular entre programadores de todos os níveis de experiência.
+
+Frontend: //
+
+Backend:RPG desenvolvido utilizando apenas a linguagem de programação Python aplicando Laços de repetição (for, while e do while) e Condição (if/elif). 
+Definição:
+Laços de repetição: São estruturas que permitem executar um bloco de código repetidamente até que uma condição especificada seja satisfeita. 
+Existem três tipos principais de laços em programação: for, while e do-while. O laço for é utilizado quando se sabe o número exato de vezes que a repetição deve ocorrer.
+
+If/Elif: Permite que o programa execute diferentes blocos de código com base em condições específicas, podendo ser interpretadas como "Se" ou "Se não".
+
+Referências: //
+
+Conclusão: Conclui-se que todos os temas trabalhados em turma desde o dia 03/02/2025 até o dia 06/02/2025, conseguiram ser aplicados através do RPG, colocando-os em prática de maneira descontraída e desafiadora.
